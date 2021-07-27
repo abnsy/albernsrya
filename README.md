@@ -1,4 +1,4 @@
-<h1 align="center">SCIENTIFIC COMPUTATION, AI and MACHINE LEARNING</h1>
+<h1 align="center">SCIENTIFIC COMPUTATION AI and MACHINE LEARNING</h1>
 
 - e_mail: **albernsuryaadi@gmail.com**
 
